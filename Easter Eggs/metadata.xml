@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Easter Eggs</name>
+    <directory>easter eggs</directory>
+    <id>907110890</id>
+    <description>Adds one new item: the Easter Egg.
+
+The Easter Egg has a chance to transform your tears into Easter Egg tears based on your luck.
+
+Easter Egg tears deal double damage, have a chance to confuse enemies (based on luck) and have a small chance to leave white creep.</description>
+    <version>1.6</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+</metadata>

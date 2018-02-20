@@ -1,0 +1,17 @@
+<ItemPools>
+	<Pool Name="treasure">
+		<Item Name="Easter Egg" Weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+	</Pool>
+	<Pool Name="goldenChest">
+		<Item Name="Easter Egg" Weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+	</Pool>
+	<Pool Name="beggar">
+		<Item Name="Easter Egg" Weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+	</Pool>
+	<Pool Name="greedTreasure">
+		<Item Name="Easter Egg" Weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+	</Pool>
+	<Pool Name="greedGoldenChest">
+		<Item Name="Easter Egg" Weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+	</Pool>
+</ItemPools>
